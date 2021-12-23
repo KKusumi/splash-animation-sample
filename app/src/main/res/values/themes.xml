@@ -12,5 +12,8 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:windowSplashScreenIconBackgroundColor">#3DDC84</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/avd_anim</item>
+        <item name="android:windowSplashScreenAnimationDuration">10000</item>
     </style>
 </resources>
